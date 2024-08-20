@@ -15,3 +15,10 @@ Microsoft Power BI: Pre-Processing and Data Visualization
 
 ![Chicago Data Model](https://github.com/user-attachments/assets/590ee31b-38dd-4ca0-a45f-55862765e332)
 ![New Orleans Data Model](https://github.com/user-attachments/assets/84d6c5b2-5c13-49ca-a7f6-2b2ce9425e0d)
+
+# Steps to import data as a folder
+Get data -> More -> All -> Folder -> Connect -> Path leading to the folder dataset -> Click ok
+Click on transform data -> Duplicate the file -> Click on Binary to expand the dataset (Repeat the set for the no of datasets)
+
+# Dashboard
+
