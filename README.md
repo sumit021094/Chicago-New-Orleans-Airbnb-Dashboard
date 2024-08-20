@@ -6,6 +6,7 @@ Airbnb is an immensely popular global platform that was established in 2008. It 
 
 # Dataset Source
 Chicago, Illinois, United States
+
 New Orleans, Louisiana, United States
 
 # Tool used
