@@ -11,3 +11,5 @@ Airbnb is an immensely popular global platform that was established in 2008. It 
 # Tool used
 Microsoft Power BI: Pre-Processing and Data Visualization
 
+# Data Model
+
