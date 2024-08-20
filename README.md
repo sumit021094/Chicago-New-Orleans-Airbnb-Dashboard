@@ -12,13 +12,14 @@ Airbnb is an immensely popular global platform that was established in 2008. It 
 Microsoft Power BI: Pre-Processing and Data Visualization
 
 # Data Model
-
 ![Chicago Data Model](https://github.com/user-attachments/assets/590ee31b-38dd-4ca0-a45f-55862765e332)
 ![New Orleans Data Model](https://github.com/user-attachments/assets/84d6c5b2-5c13-49ca-a7f6-2b2ce9425e0d)
 
 # Steps to import data as a folder
-Get data -> More -> All -> Folder -> Connect -> Path leading to the folder dataset -> Click ok
-Click on transform data -> Duplicate the file -> Click on Binary to expand the dataset (Repeat the set for the no of datasets)
+1. Get data -> More -> All -> Folder -> Connect -> Path leading to the folder dataset -> Click ok
+2. Click on transform data -> Duplicate the file -> Click on Binary to expand the dataset (Repeat the set for the no of datasets)
 
 # Dashboard
+![Chicago Dashboard](https://github.com/user-attachments/assets/623c7b33-4479-40b6-bbb4-239e9809d275)
+![New Orleans Dashboard](https://github.com/user-attachments/assets/1cb18cfb-fd6a-4a7e-a6ca-db71a482eb0f)
 
