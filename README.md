@@ -14,7 +14,6 @@ Microsoft Power BI: Pre-Processing and Data Visualization
 # Data Model
 ![Chicago Data Model](https://github.com/user-attachments/assets/590ee31b-38dd-4ca0-a45f-55862765e332)
 
-
 ![New Orleans Data Model](https://github.com/user-attachments/assets/84d6c5b2-5c13-49ca-a7f6-2b2ce9425e0d)
 
 # Steps to import data as a folder
@@ -23,6 +22,8 @@ Microsoft Power BI: Pre-Processing and Data Visualization
 
 # Dashboard
 ![Chicago Dashboard](https://github.com/user-attachments/assets/623c7b33-4479-40b6-bbb4-239e9809d275)
+
+
 
 
 ![New Orleans Dashboard](https://github.com/user-attachments/assets/1cb18cfb-fd6a-4a7e-a6ca-db71a482eb0f)
