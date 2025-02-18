@@ -1,4 +1,4 @@
-# Chicago-New-Orleans-Airbnb-Dashboard
+# Chicago-New-Orleans-Airbnb-Dashboard 
 This analysis of the Airbnb dataset in Chicago and New Orleans City, providing insights into the current state of the market and identifying trends and patterns. The analysis delves into various factors influencing Airbnb prices, including house and room types, the correlation between the number of bedrooms and price, and the availability of accommodations across different neighbourhoods. Additionally, it highlights the top 5 neighbourhoods based on average price and rating, along with an overview of the dataset presented in a concise table format. Furthermore, the analysis explores the top 10 neighbourhoods with the most listings based on ratings. It also investigates the relationship between the number of reviews and ratings, as well as the impact of house type on price. This comprehensive examination offers valuable insights into the dynamics of the Chicago and New Orleans City Airbnb market.
 
 # Background Information
