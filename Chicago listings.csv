@@ -1,5 +1,5 @@
 id,name,host_id,host_name,neighbourhood_group,neighbourhood,latitude,longitude,room_type,price,minimum_nights,number_of_reviews,last_review,reviews_per_month,calculated_host_listings_count,availability_365,number_of_reviews_ltm,license
-2384,Hyde Park - Walk to UChicago,2613,Rebecca,,Hyde Park,41.7879,-87.5878,Private room,86,3,234,2024-03-12,2.09,1,309,23,R17000015609
+2384,Hyde Park - Walk to UChicago,2613,Rebecca,,Hyde Park,41.7879,-87.5878,Private room,86,3,234,2024-03-12,2.09,1,309,23,R17000015609 
 7126,Tiny Studio Apartment 94 Walk Score,17928,Sarah,,West Town,41.90166,-87.68021,Entire home/apt,90,2,516,2024-03-03,2.88,1,294,31,R24000114046
 10945,The Biddle House (#1),33004,At Home Inn,,Lincoln Park,41.91196,-87.63981,Entire home/apt,114,4,83,2024-03-06,0.69,6,162,23,2209984
 12140,Lincoln Park Guest House,46734,Shay And Robert,,Lincoln Park,41.92357,-87.64947,Private room,329,2,15,2023-05-21,0.14,1,165,2,R20000055258
