@@ -1,4 +1,4 @@
-id,name,host_id,host_name,neighbourhood_group,neighbourhood,latitude,longitude,room_type,price,minimum_nights,number_of_reviews,last_review,reviews_per_month,calculated_host_listings_count,availability_365,number_of_reviews_ltm,license
+id,name,host_id,host_name,neighbourhood_group,neighbourhood,latitude,longitude,room_type,price,minimum_nights,number_of_reviews,last_review,reviews_per_month,calculated_host_listings_count,availability_365,number_of_reviews_ltm,license 
 898685,3 blocks from the St. Charles streetcar!,4796527,Jackson,,Central City,29.93694,-90.08212,Entire home/apt,114,1,548,2024-02-26,4.08,3,23,51,"22-RSTR-15749, 22-OSTR-17167"
 19091,Fully Furnished Cozy Apartment,72880,John,,Leonidas,29.961,-90.1195,Entire home/apt,71,1,503,2023-11-06,2.97,1,0,7,"22-RSTR-14107, 22-OSTR-14105"
 71624,Ravenwood Manor (Historic Bywater),367223,Susan,,Bywater,29.96153,-90.04364,Entire home/apt,150,3,299,2024-03-10,1.88,1,302,17,"21-RSTR-18609, 22-OSTR-20720"
